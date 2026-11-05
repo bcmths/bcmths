@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou Matheus Barcelos de Carvalho
 
-Seja bem-vindo(a) ao meu perfil. Sou estudante de Engenharia de Computação, expecializando-me para me tornar um Desenvolvedor Fullstack. Sou de Brasília, Brasil 🇧🇷.
+Seja bem-vindo(a) ao meu perfil. Sou graduado em Engenharia de Computação e atuo como Desenvolvedor Fullstack. Sou de Brasília, Brasil 🇧🇷.
 
 ### Conecte-se comigo!
 
