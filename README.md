@@ -4,21 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=30A3DC&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Matheus+Barcelos;Desenvolvedor+Fullstack;Engenharia+de+Computa%C3%A7%C3%A3o;Bras%C3%ADlia%2C+Brasil" alt="Typing SVG" />
 
-</div>
+<img src="./assets/neofetch-matheus.svg" alt="Cartão de informações" width="740" />
 
-```text
-matheus@brasilia
-────────────────────────────────────────────
-Nome.........: Matheus Barcelos de Carvalho
-Cargo........: Desenvolvedor Fullstack
-Formação.....: Engenharia de Computação
-Local........: Brasília, Brasil 🇧🇷
-Stack........: HTML · CSS · JavaScript · TypeScript
-               Python · PHP · MySQL · AWS
-Ferramentas..: Git · GitHub
-Contato......: barcelosmatheusc@gmail.com
-────────────────────────────────────────────
-```
+</div>
 
 ### 🔗 Conecte-se comigo
 
